@@ -31,5 +31,21 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "TestModel": {
+    "dataSource": "db",
+    "public": true
+  },
+  "AnotherModel": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Beer": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Toys": {
+    "dataSource": "db",
+    "public": true
   }
 }
